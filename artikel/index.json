@@ -1,0 +1,23 @@
+[
+    {
+        "judul": "Apa Itu Bom Kotor yang Disebut Rusia Dipakai Tentara Ukraina?",
+        "img":"https://akcdn.detik.net.id/visual/2022/03/04/russia-ukraine-war-weapons-explainer-10_169.jpeg?w=715&q=90",
+        "deskripsi":"Memasuki hampir tiga pekan serangan Rusia ke Ukraina, militer Moskow mengklaim telah menemukan beberapa pen",
+        "tanggal":"15 Maret 2022",
+        "artikel":"artikel_1.md"
+    },
+    {
+        "judul": "Apa itu Perang Nuklir",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nagasakibomb.jpg/250px-Nagasakibomb.jpg",
+        "deskripsi":"Perang nuklir adalah peperangan di mana senjata nuklir digunakan. Ini hanya berlaku sekali - pengeboman kot",
+        "tanggal":"01 Februari 2022",
+        "artikel":"artikel_2.md"
+    },
+    {
+        "judul": "Apa Itu Perang Dunia II",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Infobox_collage_for_WWII.PNG/300px-Infobox_collage_for_WWII.PNG",
+        "deskripsi":"Perang Dunia II atau Perang Dunia Kedua (biasa disingkat menjadi PDII atau PD2) adalah sebuah perang global yang b",
+        "tanggal":"10 Mei 2022",
+        "artikel":"artikel_3.md"
+    }
+]

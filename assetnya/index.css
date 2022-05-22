@@ -1,0 +1,87 @@
+body {
+    --warna-dasar: rgb(255, 230, 0);
+    --warna-dasar-agakmuda: rgb(255, 245, 155);
+    --warna-kedua: rgb(255, 248, 221);
+    --warna-gelap: rgb(19, 19, 19);
+    --warna-terang: rgb(219, 219, 219);
+}
+p,a,h1,h2,h3,h4,h5,h6 {
+    font-family: 'Source Serif Pro', serif;
+}
+
+h3 {
+    font-size: 3em;
+    font-weight: 600;
+    text-decoration: overline;
+}
+
+.btn {
+    background-color: var(--warna-dasar);
+}
+.card-body a {
+    font-family: 'Source Serif Pro', serif;
+    color: var(--warna-gelap);
+}
+
+.card-img-top {
+    padding: 1em;
+}
+
+.card {
+    border: solid 2px var(--warna-gelap);
+    background-color: var(--warna-kedua);
+}
+
+.jumbotron {
+    height: 94vh;
+    width: 100%;
+    background-color: var(--warna-kedua);
+    border-radius: 0 0 5vmax 0;
+    border: solid 2px var(--warna-gelap);
+    margin: 0;
+}
+
+.navbar {
+    background: var(--warna-dasar);
+}
+.navbar .nav-item  {
+    background-color: var(--warna-dasar) !important ;
+    z-index:1;
+}
+
+.navbar a{
+    transition: 350ms;
+}
+.navbar a:hover {
+    color: #000;
+
+}
+
+.navbar-nav::before {
+    z-index: 0;
+    content: "";
+    width: 85vw;
+    position: absolute;
+    left: 84px;
+    top: 28px;
+    height: 1.5px;
+    background-color: var(--warna-gelap);
+    overflow: hidden;
+
+}
+.sosial a {
+    color: rgb(168, 151, 1);
+    text-decoration: none;
+}
+.social .bi {
+    transition: 350ms;
+
+}
+.sosial .bi:hover{
+    color: var(--warna-dasar);
+    font-size: 20px;
+}
+
+.nama {
+    font-size: 3em;
+}
